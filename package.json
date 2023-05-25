@@ -1,0 +1,16 @@
+{
+  "name": "sql-formatter-typescript-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nwalters512/sql-formatter-typescript-repro.git",
+  "author": "Nathan Walters <nwalters512@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "sql-formatter": "^12.2.1",
+    "typescript": "^5.0.4"
+  }
+}
